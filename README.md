@@ -1,12 +1,7 @@
 # Ngiridb
 
-<p>
-<a href="https://github.com/pesaply/ngiridb/actions">
-    <img src="https://github.com/pesaply/ngiridb/workflows/Test%20Suite/badge.svg" alt="Test Suite">
-</a>
-<a href="https://pypi.org/project/ngiridb/">
-    <img src="https://badge.fury.io/py/ngiridb.svg" alt="Package version">
-</a>
+
+
 </p>
 
 ngiridb gives you simple asyncio support for a range of ngiridb.
