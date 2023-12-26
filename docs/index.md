@@ -7,7 +7,7 @@
 </a>
 </p>
 
-Ngiridb asyncio support for a range of ngiridb.
+Ngiridb asyncio support for a range of databases
 
 It allows you to make queries using the powerful [SQLAlchemy Core][sqlalchemy-core]
 expression language, and provides support for PostgreSQL, MySQL, and SQLite.
